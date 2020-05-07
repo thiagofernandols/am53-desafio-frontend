@@ -7,7 +7,17 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run serve
+npm run 
+```
+
+### Run tests headless
+```
+npm run test
+```
+
+### Run tests debug
+```
+npm run test:open
 ```
 
 ### Compiles and minifies for production
