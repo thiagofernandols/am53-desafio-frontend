@@ -2,6 +2,7 @@
 
 > Este projeto foi desenvolvido como um desafio técnico, tem como objetivo fazer upload de arquivo de log e popular o banco de dados,
 uma interface para listar/consultar/pesquisar os logs e um dashboard.
+
 >Para o funcionamento correto, a API precisa estar em execução. am53-desafio-api (https://github.com/thiagofernandols/am53-desafio-api)
 
 ## Project setup
