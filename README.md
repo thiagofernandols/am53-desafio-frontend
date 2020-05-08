@@ -1,5 +1,7 @@
 # desafio-frontend
 
+> Para o funcionamento correto, a API precisa estar em execução. am53-desafio-api (https://github.com/thiagofernandols/am53-desafio-api)
+
 ## Project setup
 ```
 npm install
