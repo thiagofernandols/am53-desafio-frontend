@@ -5,6 +5,8 @@ uma interface para listar/consultar/pesquisar os logs e um dashboard.
 
 >Para o funcionamento correto, a API precisa estar em execução. am53-desafio-api (https://github.com/thiagofernandols/am53-desafio-api)
 
+Vídeo de apresentação: https://youtu.be/75dGFTLBAjY
+
 ## Project setup
 ```
 npm install
