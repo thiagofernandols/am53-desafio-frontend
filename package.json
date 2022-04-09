@@ -20,7 +20,7 @@
     "crip-vue-loading": "^1.2.5",
     "font-awesome": "^4.7.0",
     "liquor-tree": "^0.2.70",
-    "moment": "^2.25.3",
+    "moment": "^2.29.2",
     "vue": "^2.6.11",
     "vue-apexcharts": "^1.5.3",
     "vue-bootstrap-datetimepicker": "^5.0.1",
